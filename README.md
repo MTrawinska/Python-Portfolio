@@ -26,3 +26,11 @@ Script that use API to extract weather data for selected city and based on condi
 Requirements: Python 3.5+, request, json
 
 [More about](https://github.com/MTrawinska/Weather_API_python)
+
+## 4. Pesel validation
+
+Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESEL). Net python code only in three lines, gross total in 7 lines. 
+
+Requirements: Python 3.5+
+
+[More about](https://github.com/MTrawinska/PESEL/blob/master/PESEL_validation.py)
