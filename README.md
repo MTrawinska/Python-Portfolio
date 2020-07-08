@@ -11,8 +11,18 @@ Requirements: Python 3.5+
 
 ## 2. Automated-job-search-support
 
+<TBD code/ in progress>
+
 Main project idea is to create newsletter with work offers scraped from [Indeed portal](https://pl.indeed.com/?r=us) and delived in csv to email  
 
 Requirements: Python 3.5+
 
 [More about](https://github.com/MTrawinska/Automated-job-search-support)
+
+## 3. Weather_API_python
+
+Script that use API to extract weather data for selected city and based on conditions display random joke.
+
+Requirements: Python 3.5+, request, json
+
+[More about](https://github.com/MTrawinska/Weather_API_python)
