@@ -11,7 +11,7 @@ Requirements: Python 3.5+
 
 ## 2. Automated-job-search-support
 
-<TBD code/ in progress>
+<TBD code/ in progress/ upload code step>
 
 Main project idea is to create newsletter with work offers scraped from [Indeed portal](https://pl.indeed.com/?r=us) and delived in csv to email  
 
