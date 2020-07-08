@@ -1,7 +1,7 @@
 # Python-Projects-Portfolio---Owner
 
 ## 1. 21_oczko_blackjack - Card game 
-Developed code: 12/2019 
+Developed: 12/2019 
 
 Object Oriented Programming / Classes 
 
@@ -12,7 +12,7 @@ Requirements: Python 3.5+
 [More about](https://github.com/MTrawinska/21_oczko_blackjack)
 
 ## 2. Automated-job-search-support
-Developed code: 09/2019 
+Developed: 09/2019 
 
 <TBD code/ in progress/ upload code step>
 
@@ -23,7 +23,7 @@ Requirements: Python 3.5+
 [More about](https://github.com/MTrawinska/Automated-job-search-support)
 
 ## 3. Weather_API_python
-Developed code: 06/2019 
+Developed: 06/2019 
 
 Script that use API to extract weather data for selected city and based on conditions display random joke.
 
@@ -32,7 +32,7 @@ Requirements: Python 3.5+, request, json
 [More about](https://github.com/MTrawinska/Weather_API_python)
 
 ## 4. Pesel validation
-Developed code: 04/2019 
+Developed: 04/2019 
 
 Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESEL). Net python code only in 3 lines, gross total in 7 lines. 
 
