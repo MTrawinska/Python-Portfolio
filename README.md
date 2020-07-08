@@ -33,4 +33,4 @@ Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESE
 
 Requirements: Python 3.5+
 
-[More about](https://github.com/MTrawinska/PESEL/blob/master/PESEL_validation.py)
+[More about](https://github.com/MTrawinska/PESEL)
