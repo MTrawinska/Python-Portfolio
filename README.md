@@ -29,7 +29,7 @@ Requirements: Python 3.5+, request, json
 
 ## 4. Pesel validation
 
-Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESEL). Net python code only in three lines, gross total in 7 lines. 
+Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESEL). Net python code only in 3 lines, gross total in 7 lines. 
 
 Requirements: Python 3.5+
 
