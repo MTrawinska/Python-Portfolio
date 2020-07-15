@@ -11,7 +11,19 @@ Requirements: Python 3.5+
 
 [More about](https://github.com/MTrawinska/21_oczko_blackjack)
 
-## 2. Automated-job-search-support
+## 2. OOP skills - SUP class based
+Developed: 10/2019 
+
+Object Oriented Programming / Classes 
+
+Main project idea is to sample skills of advanced OOP in Python 
+
+Requirements: Python 3.5+, unittest, TDD
+Other: PEP8, DRY
+
+[More about](https://github.com/MTrawinska/OOP_python_plus_tests)
+
+## 3. Automated-job-search-support
 Developed: 09/2019 
 
 <TBD code/ in progress/ upload code step>
@@ -22,7 +34,7 @@ Requirements: Python 3.5+
 
 [More about](https://github.com/MTrawinska/Automated-job-search-support)
 
-## 3. Weather_API_python
+## 4. Weather_API_python
 Developed: 06/2019 
 
 Script that use API to extract weather data for selected city and based on conditions display random joke.
@@ -31,7 +43,7 @@ Requirements: Python 3.5+, request, json
 
 [More about](https://github.com/MTrawinska/Weather_API_python)
 
-## 4. Pesel validation
+## 5. Pesel validation
 Developed: 04/2019 
 
 Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESEL). Net python code only in 3 lines, gross total in 7 lines. 
