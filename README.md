@@ -19,6 +19,7 @@ Object Oriented Programming / Classes
 Main project idea is to sample skills of advanced OOP in Python 
 
 Requirements: Python 3.5+, unittest, TDD
+
 Other: PEP8, DRY
 
 [More about](https://github.com/MTrawinska/OOP_python_plus_tests)
