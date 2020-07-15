@@ -12,7 +12,7 @@ Requirements: Python 3.5+
 [More about](https://github.com/MTrawinska/21_oczko_blackjack)
 
 ## 2. OOP skills - SUP class based
-Developed: 10/2019 
+Developed: 01/2020 
 
 Object Oriented Programming / Classes 
 
