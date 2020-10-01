@@ -27,8 +27,6 @@ Other: PEP8, DRY
 ## 3. Automated-job-search-support
 Developed: 09/2019 
 
-<TBD code/ in progress/ upload code step>
-
 Main project idea is to create newsletter with work offers scraped from [Indeed portal](https://pl.indeed.com/?r=us) and delived in csv to email  
 
 Requirements: Python 3.5+
