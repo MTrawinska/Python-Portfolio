@@ -50,3 +50,12 @@ Simple Python script to quickly check [PESEL](https://pl.wikipedia.org/wiki/PESE
 Requirements: Python 3.5+
 
 [More about](https://github.com/MTrawinska/PESEL)
+
+## 6. Automated texting
+
+Developed 05/2020
+
+Sending automated text messages via Twilio
+
+Requirements: Python 3.5+, libraries: random, schedule, time
+[More about](https://github.com/MTrawinska/Automated_texing)
